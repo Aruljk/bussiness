@@ -1,0 +1,197 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type:none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+}
+.navtitle{
+
+}
+.bg-image{
+    background: url(../images/hero-bg.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    position: relative;
+
+}
+.title{
+position: absolute;
+background-color:rgba(0,0,0,0.7);
+top: 55px;
+left: 0;
+width: 100%;
+height: 500px;
+padding-top: 90px;
+background-size: cover;
+text-align: center;
+}
+.temp{
+    color: white;
+}
+.temp1{
+    color: white;
+    font-size: 60px;
+}
+.temp2{
+    color: white;
+    font-size: 20px;
+}
+.title button{
+    border-radius:14%;
+    width: 10%;
+    border-color:white;
+    color: white;
+}
+
+/* about section starts */
+.abou-head{
+    text-align: center;
+}
+.abou-head h1 span{
+    color: rgb(245, 56, 88);
+}
+.row p span{
+    color: rgb(245, 56, 88);  
+}
+/* about section ends */
+.serhead h1 span{
+    color: rgb(245, 56, 88); 
+}
+.shadow{
+    height: 250px;
+}
+.services1 .row .box i{
+    font-size: 30px;
+    color:rgb(240, 58, 58) ;
+}
+.services1 .row .box:hover i{
+    color: white;
+}
+.services1 .row .box:hover .shadow{
+    color:white;
+    background-color:rgb(240, 58, 58);
+    transition: all 0.3s ease-in-out;
+}
+/* boxes section starts */
+.one{
+    display: flex;
+}
+.one i{
+    font-size: 30px;
+}
+.one1{
+    color: orange;
+}
+.one2{
+    color: blue;
+}
+.one3{
+    color: red;
+}
+.one4{
+    color: violet;
+}
+.one5{
+    color: skyblue;
+}
+.one5{
+    color: rgb(230, 204, 157);
+}
+.one7{
+    color: rgb(186, 223, 238);
+}
+.one8{
+    color: skyblue;
+}
+.one9{
+    color: rgb(99, 20, 20);
+}
+.one10{
+    color: brown;
+}
+.one11{
+    color: orange;
+}
+.one12{
+    color: greenyellow;
+}
+.one h5:hover{
+    color: red;
+}
+
+/* call to action starts */
+.backimg{
+    background:linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url(../images/cta-bg.jpg) center center; 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 80px;
+}
+.calllet button{
+border-color: white;
+}
+/* portfolio */
+.tex h1 span{
+    color: rgb(236, 98, 98);
+}
+/* pricing */
+.sertex h1 span{
+color: rgb(245, 102, 102);
+}
+.model li span{
+    color: rgb(236, 98, 98); 
+}
+.model{
+    height: 350px;
+}
+/* faq */
+.faqhead span{
+    color: rgb(236, 98, 98); 
+}
+.action{
+    border-bottom: solid 1px rgb(184, 179, 179);
+}
+/* teams section */
+.teamhead span{
+    color: rgb(245, 102, 102);
+}
+.contacthead span{
+    color: rgb(245, 102, 102);
+}
+.sec1{
+    display: flex;
+}
+.sec1 i{
+    background-color: rgb(240, 138, 189);
+color: rgb(241, 79, 79);
+}
+.divd li i{
+    color:rgb(241, 79, 79) ;
+}
+.ico i{
+    background-color: rgb(245, 98, 98);
+color: white;
+}
+.jack{
+    display: flex;
+    justify-content: space-between;
+}
+.bottom{
+    background-color: rgb(233, 223, 223);
+height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
